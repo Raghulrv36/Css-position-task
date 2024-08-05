@@ -1,0 +1,48 @@
+div{
+    background-color: pink;
+    width: 300px;
+    height: 300px;
+    position: relative;
+    margin-top: 10%;
+    margin-left: 40%;
+}
+p{
+    font-size: 36px;
+    color: white;
+    text-align: center;
+    padding-top: 40%;
+}
+img{
+    position: absolute;
+    
+}
+.one{
+    width: 42px;
+    left: -10px;
+    top: 40%;
+}
+.two{
+    width: 40px;
+    right: -10px;
+    top: 40%;
+}
+.three{
+    width: 10px;
+    left:40%;
+    bottom: 3px;
+}
+.four{
+    width: 10px;
+    left:45%;
+    bottom: 3px;
+}
+.five{
+    width: 10px;
+    left:50%;
+    bottom: 3px;
+}
+.six{
+    width: 10px;
+    left:55%;
+    bottom: 3px;
+}
